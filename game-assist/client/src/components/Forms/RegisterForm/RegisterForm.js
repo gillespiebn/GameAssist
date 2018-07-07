@@ -1,6 +1,6 @@
 import React from 'react';
 
-class SignUpForm extends React.Component {
+class RegisterForm extends React.Component {
     state={
         Data: {},
         loading: false,
@@ -14,4 +14,4 @@ class SignUpForm extends React.Component {
     }
 }
 
-export default SignUpForm;
+export default RegisterForm;
